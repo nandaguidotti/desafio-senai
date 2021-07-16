@@ -63,14 +63,14 @@ Não foi possível acabar de migrar o modelo para a Plataforma.
 A Plataforma VITA é fácil e simples de ser compreendida e utilizada, depois de migrado 
 a solução para a plataforma, terá uma solução completa e replicável.
 
-##Obs:
+## Obs:
 
 O Notebook está na pasta docs, assim como a documentação do Software (HTML e PDF). 
 Foi utilizado o software Sphinx para gerar a documentação. 
 
 (https://github.com/nandaguidotti/desafio-senai/docs)
 
-##Referências:
+## Referências:
 
 H. Sayadi, N. Patel, S. M. P.D., A. Sasan, S. Rafatirad and H. Homayoun, "Ensemble Learning for Effective Run-Time
 Hardware-Based Malware Detection: A Comprehensive Analysis and Classification," 2018 55th ACM/ESDA/IEEE Design
