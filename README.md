@@ -66,9 +66,9 @@ a solução para a plataforma, terá uma solução completa e replicável.
 ## Obs:
 
 O Notebook está na pasta docs, assim como a documentação do Software (HTML e PDF). 
-Foi utilizado o software Sphinx para gerar a documentação. 
+Foi utilizado o software Sphinx para gerar a documentação e o Mermaid para os fluxo.
 
-(https://github.com/nandaguidotti/desafio-senai/docs)
+(https://github.com/nandaguidotti/desafio-senai/tree/main/docs)
 
 ## Referências:
 
@@ -83,3 +83,7 @@ Zeyuan Shang, Emanuel Zgraggen, Benedetto Buratti, Ferdinand Kossmann, Philipp E
 Eli Upfal, and Tim Kraska. 2019. Democratizing Data Science through Interactive Curation of ML Pipelines. In Proceedings of the 2019 International Conference on Management of Data (SIGMOD '19). Association for Computing Machinery, New York, NY, USA, 1171–1188. DOI:https://doi.org/10.1145/3299869.3319863
 
 https://docs.docker.com/compose/
+
+https://www.sphinx-doc.org/en/master/
+
+ https://mermaid-js.github.io/ 
