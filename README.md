@@ -56,7 +56,7 @@ A Plataforma VITA possui a seguinte estrutura geral de pastas:
 ## Limitação
 
 O Tempo foi um limitante, a solução desenvolvida foi feita utilizando o Jupyter Notebook.
-Não foi possível acabar de migrar o modelo para a Plataforma.
+Não foi possível finalizar a migração do modelo para a Plataforma.
 
 ## Contribuição
 
