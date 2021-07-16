@@ -48,7 +48,7 @@ A Plataforma VITA possui a seguinte estrutura geral de pastas:
 
 ## Conteúdo
 - Modelos: Random Forest, TreesClassifier e Regressão Logística;
-- Normalização: StandardScaler;
+- Normalização: MinMaxScaler;
 - Divisão de subsets treino/testes: K-fold;
 - Método de stacking;
 - Métricas de avaliação do classificador: Acurácia, Log_loss;
